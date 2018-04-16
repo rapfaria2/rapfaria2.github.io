@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on </title>
+    <link>http://www.rapfaria.com/</link>
+    <description>Recent content in Portfolio on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://www.rapfaria.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://www.rapfaria.com/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.rapfaria.com/portfolio/</guid>
+      <description>First of all, you can see me programming a FizzBuzz using TDD (hope you don&amp;rsquo;t mind the soundtrack):
+ Didn&amp;rsquo;t even leave the keyboard!
+Current projects  Freelance Smart Home automation using Amazon Alexa/AWS Lambda, Google Home, Raspberry Pi, Python/Django, Android.
+ Web-development. Example: Tem Cena Depois?
+List of movies that have scenes after the credits roll (so you don&amp;rsquo;t miss it or don&amp;rsquo;t waste time waiting for nothing).</description>
+    </item>
+    
+    <item>
+      <title>Resume/Curriculum</title>
+      <link>http://www.rapfaria.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.rapfaria.com/resume/</guid>
+      <description>You can download my resume in PDF format right here (in Portuguese)</description>
+    </item>
+    
+  </channel>
+</rss>
